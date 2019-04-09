@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 html {
-  backgound-color: white;
+  background-color: white;
 }
 
-.header {
+header {
   background-color: #37ddd8;
-=======
-html {background-color: white;}
-.header {background-color:#37ddd8;}
+}
+
 a:link {
   color: rgb(0, 0, 255);
 }
@@ -22,5 +20,4 @@ a:hover {
 
 a {
   text-decoration: none;
->>>>>>> master
 }
