@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-html {
-  backgound-color: white;
-}
-
-.header {
-  background-color: #37ddd8;
-=======
 html {background-color: white;}
-.header {background-color:#37ddd8;}
+header {background-color:#37ddd8;}
 a:link {
   color: rgb(0, 0, 255);
 }
