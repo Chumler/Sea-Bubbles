@@ -1,2 +1,2 @@
 # Sea-Bubbles
-Project
+## Martin Barry, Edward Allington, Tyler Goodman
