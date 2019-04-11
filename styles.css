@@ -53,14 +53,24 @@ nav {
   left: 822.5px;
 }
 
-p{
+p {
   top: 25%;
   position: absolute;
   left: 30%;
 }
 
-  h2 {
-    position: absolute;
-    left: 822.5px;
-    top: 150px;
-  }
+h2 {
+  position: absolute;
+  left: 822.5px;
+  top: 150px;
+}
+
+.column1 {
+  float: left;
+  width: 15%;
+}
+
+.column2 {
+  float: right;
+  width: 85%;
+}
