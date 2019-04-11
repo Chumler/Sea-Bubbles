@@ -4,7 +4,11 @@ html {
 
 h1 {
   position: absolute;
+<<<<<<< HEAD
   left: 44%;
+=======
+  left: 50%;
+>>>>>>> master
   top: 2%;
 }
 
@@ -53,6 +57,7 @@ nav {
   left: 822.5px;
 }
 
+<<<<<<< HEAD
 h2 {
   position: absolute;
   left: 822.5px;
@@ -64,3 +69,16 @@ p {
   left: 30%;
   top: 25%;
 }
+=======
+  nav {
+    background-color: rgb(0, 155, 255);
+    position: absolute;
+    left: 822.5px;
+  }
+
+  h2 {
+    position: absolute;
+    left: 822.5px;
+    top: 150px;
+  }
+>>>>>>> master
