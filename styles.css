@@ -4,7 +4,7 @@ html {
 
 h1 {
   position: absolute;
-  left: 50%;
+  left: 44%;
   top: 2%;
 }
 
@@ -35,20 +35,19 @@ a {
   top: 5px;
 }
 
-<<<<<<< HEAD
-nav {
-=======
-.buttons{
+.buttons {
   position: absolute;
   top: 135px;
-  left: 300px;}
-  .button{
-    position: absolute;
-    padding-left: 10%;
-    padding-right: 10%;
-  }
-nav{
->>>>>>> master
+  left: 300px;
+}
+
+.button {
+  position: absolute;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+nav {
   background-color: rgb(0, 155, 255);
   position: absolute;
   left: 822.5px;
@@ -58,15 +57,10 @@ h2 {
   position: absolute;
   left: 822.5px;
   top: 150px;
-<<<<<<< HEAD
 }
 
-p{
+p {
   position: absolute;
   left: 30%;
   top: 25%;
-=======
->>>>>>> master
->>>>>>> master
->>>>>>> master
 }
