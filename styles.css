@@ -34,3 +34,9 @@ a {
   position: relative;
   top: 5px;
 }
+
+.buttons{
+  position: absolute;
+  top: 135px;
+  left: 300px;
+}
