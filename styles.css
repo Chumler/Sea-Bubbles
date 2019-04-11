@@ -2,8 +2,15 @@ html {
   background-color: white;
 }
 
+h1{
+  position: absolute;
+  left: 850px;
+  top: 20px;
+}
+
 header {
   background-color: #37ddd8;
+  height: 100px;
 }
 
 a:link {
@@ -22,6 +29,11 @@ a {
   text-decoration: none;
 }
 
+.ico{
+  float: left;
+  position: relative;
+  top: 5px;
+}
+
 h1 {
-  text 24px;
 }
