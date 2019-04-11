@@ -35,7 +35,16 @@ a {
   top: 5px;
 }
 
+<<<<<<< HEAD
 nav {
+=======
+.buttons{
+  position: absolute;
+  top: 135px;
+  left: 300px;
+h1 {
+nav{
+>>>>>>> master
   background-color: rgb(0, 155, 255);
   position: absolute;
   left: 822.5px;
@@ -45,10 +54,15 @@ h2 {
   position: absolute;
   left: 822.5px;
   top: 150px;
+<<<<<<< HEAD
 }
 
 p{
   position: absolute;
   left: 30%;
   top: 25%;
+=======
+>>>>>>> master
+>>>>>>> master
+>>>>>>> master
 }
