@@ -2,10 +2,10 @@ html {
   background-color: white;
 }
 
-h1{
+h1 {
   position: absolute;
-  left: 850px;
-  top: 20px;
+  left: 50%;
+  top: 2%;
 }
 
 header {
@@ -29,13 +29,13 @@ a {
   text-decoration: none;
 }
 
-.ico{
+.ico {
   float: left;
   position: relative;
   top: 5px;
 }
 
-.buttons{
+.buttons {
   position: absolute;
   top: 135px;
   left: 300px;}
@@ -50,10 +50,14 @@ nav{
   left: 822.5px;
 }
 
-h2{
-  position: absolute;
-  left: 822.5px;
-  top: 150px;
->>>>>>> master
->>>>>>> master
-}
+  nav {
+    background-color: rgb(0, 155, 255);
+    position: absolute;
+    left: 822.5px;
+  }
+
+  h2 {
+    position: absolute;
+    left: 822.5px;
+    top: 150px;
+  }
