@@ -4,7 +4,7 @@ html {
 
 h1 {
   position: absolute;
-  left: 50%;
+  left: 44%;
   top: 2%;
 }
 
@@ -53,14 +53,14 @@ nav {
   left: 822.5px;
 }
 
-nav {
-  background-color: rgb(0, 155, 255);
-  position: absolute;
-  left: 822.5px;
 }
+  top: 25%;
+  position: absolute;
+  left: 30%;
+p {
 
-h2 {
-  position: absolute;
-  left: 822.5px;
-  top: 150px;
-}
+  h2 {
+    position: absolute;
+    left: 822.5px;
+    top: 150px;
+  }
